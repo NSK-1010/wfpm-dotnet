@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "P8pHQ11BoOFBhEl1EXYrxn434j7MN3wt/GsCvmq2DWqdCtofZ3ByKm04V8sfcgr/StjhUiizGKeNziZHyVMy8w==",
+  "success": true,
+  "projectFilePath": "/home/nsk/ドキュメント/GitHub/wfpm-dotnet/wfpm-dotnet.csproj",
+  "expectedPackageFiles": [
+    "/home/nsk/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
